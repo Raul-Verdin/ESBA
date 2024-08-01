@@ -6,7 +6,7 @@ Aplicacion para la empresa ESBA
 
 Para instalar la aplicación en tu dispositivo Android, sigue estos pasos:
 
-1. Ve a la [sección de Releases](https://github.com/tu-usuario/tu-repositorio/releases) de este repositorio.
+1. Ve a la [[sección de Releases](https://github.com/Raul-Verdin/ESBA/releases/tag/APP)] de este repositorio.
 2. Descarga el archivo APK más reciente disponible en la lista de lanzamientos.
 3. En tu dispositivo Android, habilita la instalación de aplicaciones de fuentes desconocidas. Esto se puede hacer en:
    - **Android 8.0 y superior:** Ajustes > Aplicaciones y notificaciones > Acceso especial a aplicaciones > Instalar aplicaciones desconocidas. Luego, selecciona el navegador o la aplicación desde donde se descargará el APK y habilita "Permitir desde esta fuente".
